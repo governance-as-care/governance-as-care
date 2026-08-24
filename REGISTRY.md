@@ -6,4 +6,4 @@
 | Agent | Owner | Data classes | Status | Model verified | Health checked | Kill path |
 |---|---|---|---|---|---|---|
 | agent-intake-summarizer-01 (Scribe) | Dana Ruiz (Clinical Ops Lead) | phi, pii | active | 2026-08-14 | 2026-08-15 | yes |
-| governance-as-care-kit (the kit) | The Steward (a person; reachable at the address on the repository profile) | public | active | 2026-08-23 | 2026-08-23 | yes |
+| governance-as-care-kit (the kit) | The Steward (a person; reachable at the address on the repository profile) | public | active | 2026-08-24 | 2026-08-24 | yes |

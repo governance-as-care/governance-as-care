@@ -29,7 +29,8 @@ If you can't, no framework binder will make you feel otherwise.
 │   ├── agent-card.md            # blank card (git form)
 │   └── agent-card-one-pager.md  # printable form — no tools required
 ├── tests/test_check.py          # the heartbeat proves its own liveness
-└── docs/field-guide.md          # every field: what it means, why it gives footing
+├── docs/field-guide.md          # every field: what it means, why it gives footing
+└── docs/health-model.md         # the health extension: what "healthy" means, and how you'd know
 ```
 
 ## Quickstart (under 30 minutes, honestly)
@@ -82,7 +83,9 @@ team calls it — the name never does the machine's job), an accountable
 coverage), a **kill path written for 3 a.m.**, and a **version stamp** with
 `git log` as the change history for free. The full walk-through of every
 field — and why each one gives you footing — is
-[`docs/field-guide.md`](docs/field-guide.md).
+[`docs/field-guide.md`](docs/field-guide.md). The card's health fields grow
+into a full practice in [`docs/health-model.md`](docs/health-model.md) —
+vitals, reviews, balanced stress tests, and rotation before degradation.
 
 ## What this is not
 

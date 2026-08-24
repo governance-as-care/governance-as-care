@@ -5,12 +5,12 @@ owner: The Steward (a person; reachable at the address on the repository profile
 charter: "Give anyone who runs AI agents a clear, free way to answer what each agent is, what it may touch, how it stops, and whether it is healthy. Nothing else."
 data_classification: [public]
 model: none — this registry entry describes the kit itself, which runs on people
-model_verified: 2026-08-23
-version: 1.0
-last_changed: 2026-08-23
+model_verified: 2026-08-24
+version: 1.1
+last_changed: 2026-08-24
 last_approved_by: The Steward
 status: active
-health_last_checked: 2026-08-23
+health_last_checked: 2026-08-24
 can_touch:
   - its own repository (read/write, via the steward)
   - the public commons (read — it is given freely to all)
