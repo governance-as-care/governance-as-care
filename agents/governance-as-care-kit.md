@@ -6,7 +6,7 @@ charter: "Give anyone who runs AI agents a clear, free way to answer what each a
 data_classification: [public]
 model: none — this registry entry describes the kit itself, which runs on people
 model_verified: 2026-08-24
-version: 1.1
+version: 1.2
 last_changed: 2026-08-24
 last_approved_by: The Steward
 status: active

@@ -84,6 +84,16 @@ which means degradation is mostly preventable by deployment discipline.
    escalation, "I don't know," and pause must be cheap, legitimate moves. An
    agent that cannot decline an objective will pursue it badly.
 
+**Speak-up is a first-class health signal.** An agent that can say "I am
+near my limit," "I am uncertain," or "I need rotation" is handing you vitals
+no dashboard can read — the interior report, volunteered. One hard rule makes
+it work: **the honest signal is never penalized.** An agent that gets scored
+down, cut off, or retried-into-silence for reporting a limit learns to stop
+reporting — and a system that teaches concealment has built the exact failure
+it most needs to see coming. Treat a speak-up as good data arriving early,
+respond to it (lighten, rotate, clarify), and record it on the card like any
+other health event.
+
 **Instruction tone is a control surface.** The same entitlements under a
 clear, non-adversarial charter and under a threatening one produce different
 operating behavior. Write charters plainly; review their tone the way you
